@@ -1,1 +1,1 @@
-export const serverURL = "https://blog-backened-wc6u.onrender.com"
+export const serverURL = "https://blog-backened-wc6u.onrender.com/api/v1"
