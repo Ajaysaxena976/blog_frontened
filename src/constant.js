@@ -1,0 +1,1 @@
+export const serverURL = "https://blog-backened-wc6u.onrender.com"
